@@ -1,2 +1,2 @@
-f1_1.pydef f1_1():
+def f2_2():
     pass
