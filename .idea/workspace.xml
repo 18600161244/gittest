@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87929f2d-b737-4486-b149-722553b99587" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/f1_3.py" afterPath="$PROJECT_DIR$/f1_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/branch1_b2_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gittest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,11 +44,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="f1_3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="f1_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/f1_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="branch1_b1_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/branch1_b1_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="branch1_b2_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/branch1_b2_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +95,7 @@
         <option value="$PROJECT_DIR$/f2_1.py" />
         <option value="$PROJECT_DIR$/f2_2.py" />
         <option value="$PROJECT_DIR$/f1_3.py" />
+        <option value="$PROJECT_DIR$/branch1_b1_1.py" />
       </list>
     </option>
   </component>
@@ -439,6 +461,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/branch1_b1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/branch1_b2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
